@@ -1,0 +1,9 @@
+tsc --init crea el archivo 
+
+tsc aplica todo lo del tsconfig al proyecto 
+
+tsc --watch modo observable
+
+Symbol()=apunta a un espacio de memoria diferente
+
+Sirve dentro de un obj cuando yo necesito un propiedad sea unica
